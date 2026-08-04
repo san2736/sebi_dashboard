@@ -2,7 +2,7 @@
 
 An end-to-end data analytics pipeline and BI dashboard analyzing mutual fund complaint data disclosed by AMCs under SEBI/AMFI regulatory reporting.
 
-🔗 **Live Dashboard:** [Add your GitHub Pages link here after deployment]
+**Live Dashboard:** https://san2736.github.io/sebi_dashboard/
 
 ---
 
